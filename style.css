@@ -32,7 +32,7 @@ body {
 
 .hearts-bg::before,
 .hearts-bg::after {
-  content: "💕 💗 💖 💝 💓";
+  content: "💕 ❤️ ❤️‍🔥 🤤 🫂 🫠 😩";
   position: absolute;
   font-size: 1.5rem;
   opacity: 0.15;
@@ -45,7 +45,7 @@ body {
 .hearts-bg::after {
   animation-delay: 6s;
   left: 60%;
-  content: "💗 💕 💓 💖 💝";
+  content: "😘 🥰 😚 💋 ❤️ 🥵";
 }
 
 @keyframes floatHearts {
